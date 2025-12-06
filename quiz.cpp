@@ -1,3 +1,8 @@
+/* Write a program for a language course center. 
+Read N students and tuition fee for each student. 
+If fee > 12000 print “Intensive Course”. 
+Print total income and count of intensive course students*/
+
 
 #include <iostream>
 using namespace std;
